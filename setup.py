@@ -6,7 +6,6 @@ setup(
     author="Nambp",
     packages=find_packages(),
     install_requires=[
-        "langchain==0.3.13",
         "flask==3.1.1",
         "sentence-transformers==4.1.0",
         "pypdf==5.6.1",
@@ -15,6 +14,5 @@ setup(
         "langchain-openai==0.3.24",
         "langchain-community==0.3.13",
         "langchain-huggingface==1.0.0",
-        "langchain-core==0.3.28",
     ],
 )
