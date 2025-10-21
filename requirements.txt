@@ -8,4 +8,3 @@ langchain-pinecone==0.2.8
 langchain-openai==0.3.24
 langchain-community==0.4
 langchain-huggingface==1.0.0
--e .
